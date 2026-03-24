@@ -1,6 +1,6 @@
 # NotePin · 极简悬浮便签｜一键呼出，万物可记✨
 
-[下载安装包](https://github.com/thyme222/NotePin/releases/download/v1.4.0/NotePin-v1.4.0.dmg)
+[下载安装包](https://github.com/thyme222/NotePin/releases/tag/NotePin-v1.4.0.dmg)
 
 
 
