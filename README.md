@@ -2,11 +2,6 @@
 
 [下载安装包](https://github.com/thyme222/NotePin/releases/tag/NotePin-v1.4.0.dmg)
 
-在 Intel Mac 上运行，需要执行以下命令移除隔离属性：
-```
-xattr -cr /Applications/NotePin.app
-```
-
 你是否常常这样？
 打开文件想随手记要点、浏览网页想留存灵感、使用软件想标注备忘……
 来回切换窗口、新建文档、分类存档，费时又麻烦，灵感转瞬即逝。
