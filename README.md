@@ -4,7 +4,7 @@
 
 在 Intel Mac 上运行，需要执行以下命令移除隔离属性：
 ```
-xattr -cr /path/to/NotePin.app
+xattr -cr /Applications/NotePin.app
 ```
 
 你是否常常这样？
